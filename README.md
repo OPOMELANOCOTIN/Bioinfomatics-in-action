@@ -4,9 +4,11 @@
   
 let's try markdown first 
 
-# resorces
+# useful resources
 - [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [15分钟学会markdown](https://www.bilibili.com/video/BV1sz411z7qd?from=search&seid=11483264095765612977)  
+- [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables)  
+- [Paste to Markdown(convert to markdown)](https://euangoddard.github.io/clipboard2markdown/)
 ***
 below is just tests for some markdown grammar
 ***
