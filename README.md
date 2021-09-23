@@ -18,7 +18,7 @@ below is just tests for some markdown grammar
 
   Combined emphasis with **asterisks and _underscores_**.
 
-  Strikethrough uses two tildes. ~~Scratch this.~~ ←wrong
+  Strikethrough uses two tildes. ~~Scratch this.~~ ←wrong in preview
 
 ## lists
 ### 数字列表
